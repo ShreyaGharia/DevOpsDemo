@@ -1,0 +1,12 @@
+userInterface\Calculator.class
+userInterface\Screen.class
+operations\SavingHistory.class
+userInterface\MainScreen.class
+userInterface\BoardWithButtons.class
+operations\Additiona.class
+userInterface\CalculatorButton.class
+userInterface\MemoryScreen.class
+operations\Operation.class
+operations\Subtraction.class
+operations\Helper.class
+userInterface\FunctionsScreen.class
