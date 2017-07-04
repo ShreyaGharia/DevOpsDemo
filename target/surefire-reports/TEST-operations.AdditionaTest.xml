@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="0" name="operations.AdditionaTest" time="0.253" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="operations.AdditionaTest" time="0.292" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
@@ -63,13 +63,13 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="operations.AdditionaTest" name="AdditionFiveTest" time="0.184"/>
-  <testcase classname="operations.AdditionaTest" name="testThrowIOException" time="0.018"/>
-  <testcase classname="operations.AdditionaTest" name="AdditionFourTest" time="0.001"/>
+  <testcase classname="operations.AdditionaTest" name="AdditionFiveTest" time="0.225"/>
+  <testcase classname="operations.AdditionaTest" name="testThrowIOException" time="0.016"/>
+  <testcase classname="operations.AdditionaTest" name="AdditionFourTest" time="0"/>
   <testcase classname="operations.AdditionaTest" name="AdditionSixTest" time="0"/>
-  <testcase classname="operations.AdditionaTest" name="ComposeStringWithNegativeSecondElementTest" time="0.012"/>
+  <testcase classname="operations.AdditionaTest" name="ComposeStringWithNegativeSecondElementTest" time="0.016"/>
   <testcase classname="operations.AdditionaTest" name="AdditionOneTest" time="0"/>
   <testcase classname="operations.AdditionaTest" name="AdditionTwoTest" time="0"/>
-  <testcase classname="operations.AdditionaTest" name="AdditionThreeTest" time="0"/>
-  <testcase classname="operations.AdditionaTest" name="doOperationAndShowInformationOneTest" time="0.038"/>
+  <testcase classname="operations.AdditionaTest" name="AdditionThreeTest" time="0.001"/>
+  <testcase classname="operations.AdditionaTest" name="doOperationAndShowInformationOneTest" time="0.034"/>
 </testsuite>
